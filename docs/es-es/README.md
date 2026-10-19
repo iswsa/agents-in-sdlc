@@ -18,11 +18,11 @@ Crea un cuestionario sobre el espacio desde una carpeta vacía, publícalo en Gi
 
 ### [Primeros pasos con GitHub Copilot CLI][first-steps-cli]
 
-Crea el mismo cuestionario desde la terminal, revisa las diferencias, ejecuta sesiones en paralelo en árboles de trabajo, planifica antes de editar y crea, combina y delega solicitudes de incorporación de cambios sin salir del shell.
+Crea el mismo cuestionario desde el terminal, revisa los cambios antes de que Git los escriba, ejecuta sesiones en paralelo en árboles de trabajo, planifica antes de editar y crea, combina y delega solicitudes de incorporación de cambios sin salir del terminal.
 
 ### [Primeros pasos con Visual Studio Code][first-steps-vscode]
 
-Crea el cuestionario en VS Code, pruébalo en el explorador integrado, publícalo con Control de código fuente, trabaja con incidencias y solicitudes de incorporación de cambios mediante las herramientas de GitHub y delega trabajo a una sesión en la nube.
+Crea el cuestionario en VS Code, pruébalo en el navegador integrado, publícalo con Control de código fuente, trabaja con incidencias y solicitudes de incorporación de cambios mediante las herramientas de GitHub y entrega trabajo a una sesión en la nube.
 
 ## Desarrollo en escenarios reales
 
@@ -40,4 +40,4 @@ Elige entre GitHub Copilot CLI, la aplicación GitHub Copilot, el agente de GitH
 [first-steps-app]: first-steps/copilot-app/
 [first-steps-cli]: first-steps/copilot-cli/
 [first-steps-vscode]: first-steps/vscode/
-[real-world-development]: ../real-world-development/
+[real-world-development]: real-world-development/
